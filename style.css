@@ -1,0 +1,49 @@
+.photo {
+  width: 50%;
+  height: 50%;
+  display: block;
+  padding-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  text-align: center;
+  font-size: 45px;
+}
+
+body {
+  background: rgb(88, 76, 48);
+  background: linear-gradient(
+    90deg,
+    rgba(88, 76, 48, 1) 0%,
+    rgba(223, 127, 39, 1) 35%,
+    rgba(242, 175, 44, 1) 100%
+  );
+}
+
+h1 {
+  color: #101408;
+  text-align: center;
+}
+
+h2 {
+  color: #101408;
+  text-align: center;
+}
+
+a {
+  color: #212112;
+}
+
+p {
+  color: #101409;
+  font-size: 35px;
+  display: block;
+  padding-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  width: 50%;
+  height: 50%;
+}
